@@ -1,4 +1,4 @@
-<p> <b>Project Name: Loan-Eligibility-Prediction Using ML Algorithms</b></p>
+<p> <b><h2>Project Name: Loan-Eligibility-Prediction Using ML Algorithms</h2></b></p>
 #Authors: Champa Sen and Sumilata Tripura
 #Supervised by MD Minoddin
 
