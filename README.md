@@ -1,6 +1,6 @@
 <p> <b><h2>Project Name: Loan-Eligibility-Prediction Using ML Algorithms</h2></b></p>
 <p> <b><h3>Authors: Champa Sen and Sumilata Tripura</h3></p></b>
-<p> <b><h4>Supervised by</h4> <h3>Md Mynoddin</h3> <h4>Assistant Professor, Department of CSE, RMSTU</h4></p></b>
+<p> <b><h4>Supervised by</h4> <h3>Md Mynoddin</h3> <h4>Assistant Professor, Department of CSE, RMSTU.</h4></p></b>
 
 <p><b>Aim:</b> Our concentration is on developing a more sustainable model that predicts whether the applicant gets loan approval or not. We focus on implementing various supervised machine learning algorithms such as Random Forest Classifier, Logistic Regression, and Decision Tree.</p>
 
